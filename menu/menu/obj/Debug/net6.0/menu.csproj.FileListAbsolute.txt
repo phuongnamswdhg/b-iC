@@ -1,0 +1,15 @@
+D:\C#\menu\menu\obj\Debug\net6.0\menu.csproj.AssemblyReference.cache
+D:\C#\menu\menu\obj\Debug\net6.0\menu.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\menu\menu\obj\Debug\net6.0\menu.AssemblyInfoInputs.cache
+D:\C#\menu\menu\obj\Debug\net6.0\menu.AssemblyInfo.cs
+D:\C#\menu\menu\obj\Debug\net6.0\menu.csproj.CoreCompileInputs.cache
+D:\C#\menu\menu\bin\Debug\net6.0\menu.exe
+D:\C#\menu\menu\bin\Debug\net6.0\menu.deps.json
+D:\C#\menu\menu\bin\Debug\net6.0\menu.runtimeconfig.json
+D:\C#\menu\menu\bin\Debug\net6.0\menu.dll
+D:\C#\menu\menu\bin\Debug\net6.0\menu.pdb
+D:\C#\menu\menu\obj\Debug\net6.0\menu.dll
+D:\C#\menu\menu\obj\Debug\net6.0\refint\menu.dll
+D:\C#\menu\menu\obj\Debug\net6.0\menu.pdb
+D:\C#\menu\menu\obj\Debug\net6.0\menu.genruntimeconfig.cache
+D:\C#\menu\menu\obj\Debug\net6.0\ref\menu.dll
